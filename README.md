@@ -1,1 +1,2 @@
 # archlife-redirect
+trigger deploy
